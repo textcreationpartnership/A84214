@@ -1,0 +1,168 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An exact relation of the discoverie of a great plot for the surprizall of Yorke for His Maiesty; as it was presented to Major Generall Lambert, by the Judge Advocate. Wherein is set down the manner of the said plot, and the names of those taken that were the chiefe actors in the said businesse, with all the armes and ammunition provided for that designe. With a letter from Pontefract concerning a party that were to meete them from Sir Marmaduke Langdale June 18. 1648. Published for the prevention of misinformation</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84214</idno>
+            <idno type="STC">Wing E3686</idno>
+            <idno type="STC">Thomason E449_11</idno>
+            <idno type="EEBO-CITATION">99864450</idno>
+            <idno type="PROQUEST">99864450</idno>
+            <idno type="VID">161854</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84214)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161854)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 71:E449[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An exact relation of the discoverie of a great plot for the surprizall of Yorke for His Maiesty; as it was presented to Major Generall Lambert, by the Judge Advocate. Wherein is set down the manner of the said plot, and the names of those taken that were the chiefe actors in the said businesse, with all the armes and ammunition provided for that designe. With a letter from Pontefract concerning a party that were to meete them from Sir Marmaduke Langdale June 18. 1648. Published for the prevention of misinformation</title>
+                  <author>Langdale, Marmaduke Langdale, Baron, 1598?-1661.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for G.W.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June 21".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161854:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 107 -->
+            <p>AN EXACT RELATION Of the Diſcoverie of a great PLOT For the ſurprizall of YORKE FOR His MAIESTY; as it was preſented to Major Generall LAMBERT, by the Judge Advocate.</p>
+            <p>WHEREIN Is ſet down the manner of the ſaid PLOT, and the names of thoſe taken that were the chiefe Actors in the ſaid buſineſſe, with all the Armes and Ammunition provided for that Deſigne.</p>
+            <p>WITH A Letter from PONTEFRACT concerning a Party that were to meete them from Sir <hi>Mar<g ref="char:EOLhyphen"/>maduke Langdale</hi> June 18. 1648. <add>June 21</add>
+            </p>
+            <p>Publiſhed for the prevention of miſinformation</p>
+            <p>
+               <hi>LONDON. Printed for</hi> G. W. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:161854:2"/>
+            <!-- PDF PAGE 108 -->
+            <pb n="1" facs="tcp:161854:2"/>
+            <!-- PDF PAGE 108 -->
+            <head>A RELATION MADE BY THE Judge Advocate, TO Major Generall <hi>Lamberts</hi> Army, concerning the Riſing and Alarm which happened in this City neare <hi>Micklegate</hi> Barre <date>the 11. of June 1648.</date>
+            </head>
+            <opener>
+               <salute>SJR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>Bout 12. of the Clock on <hi>Sunday</hi> night the 11 of <hi>June,</hi> we had a ſtrong Alarm in this City, given neare <hi>Micklegate</hi> Barre, by ſome parties
+<pb n="2" facs="tcp:161854:3"/>
+               <!-- PDF PAGE 109 -->
+fireing upon the Centry and Guard there which conſiſted of the Volunteers, and Trayned Band, the Guard did not quick<g ref="char:EOLhyphen"/>ly receive the Alarm till the parties that fi<g ref="char:EOLhyphen"/>red came up to the gate and knockt, and bad them open the gate for the King, at which they tooke the Alarm, ſome peeces went of, but by whom is not known, with<g ref="char:EOLhyphen"/>in the Walles upon the Guard, and then they beat an Alarm; whereupon Captain Pitſon and Captain Farley, commanded up their companies, and marched them to the main Guard, and ſent ſtrong parties o<g ref="char:EOLhyphen"/>ver Ouze Bridge to Micklegate Barre, and by that time Lieutenant Levens marched up to the main Guard with a party of a<g ref="char:EOLhyphen"/>bout 20 horſe and from thence Captain Pitſon deſired him to march to Micklegate Barre, which he did, but they diſcovered no enemy in any Body, only they found the Guards in ſome diſorder, and many cryed out in the ſtreetes, for the King, for the King; whereupon Captain Pitſon from the main Guard ſent out ſeverall other
+<pb n="3" facs="tcp:161854:3"/>
+               <!-- PDF PAGE 109 -->
+parties of Souldiers and Volunteers of the City into divers parts of the City, to ſearch for ſuch as were the moſt dangerous Ma<g ref="char:EOLhyphen"/>lignants, in regard they feared their riſing, and accordingly they did ceaſe on about 10. ſome whereof are Citizens, and ſome have been in Armes for the King, amongſt which a Lieutenant Collonel and ſome captains having their Swords, and fireing Armes lying ready charged by them, and ſome of them wearing Sir Thomas Glem<g ref="char:EOLhyphen"/>hams collours, particularly captain Pitſon commanded his Lieutenant Iohn coape to march with a party to Mr. Maſcals houſe to ſearch for letters and armes and acquain<g ref="char:EOLhyphen"/>ted him that he had notice of a Letter that ſhould come from Pomfret, and there was found in the ſaid houſe hid in a wall a Letter dated at <hi>Pontephr<gap reason="illegible: missing" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t</hi> the ninth of <hi>June</hi> twelve at night ſub<g ref="char:EOLhyphen"/>ſcribed <hi>M.B.</hi> a Copie whereof here is incloſed.</p>
+            <p>
+               <pb n="4" facs="tcp:161854:4"/>
+               <!-- PDF PAGE 110 -->On Wedneſday laſt Captain Pitſon ha<g ref="char:EOLhyphen"/>ving the Guard that day, about 150. of the moſt Malignants of the City went out at Boudam Barre, to meete a Wedding that was to come out from Newcaſtle that night into York; they had liberty to go forth, but Captain Pitſon commanded that none ſhould come without an Order from my Lord Major, which upon their return, about 9. or 10. of the clock at night, the Guards being ſtrict, they permitted none to come in, but thoſe that could have li<g ref="char:EOLhyphen"/>berty from my Lord Major, fearing there might be ſome deſigne in that buſineſſe, amongſt thoſe that went out was Mr. Maſcalls Sonne, and the Lieutenant Col<g ref="char:EOLhyphen"/>lonel of the Kings ſide, and they being ſuſ<g ref="char:EOLhyphen"/>pected, ſome was ſent out with them two miles off, whither they ſaid they went, and there they met at an Alehouſe, about 40. Gentlemen and others which had ſecured the King; with their ſwords, and ſome with Piſtols, a drinking, and pretending they ſtayed for the Wedding: This letter was partly diſcovered on Sunday night by a
+<pb n="5" facs="tcp:161854:4"/>
+               <!-- PDF PAGE 110 -->
+Maid, it ſeemeth Mr. Maſcall had ſhewed it, and the Maid hearing her Mr. and Mrs. ſpeaking of a letter that was ſent from ſome Cavaliers about the ſurprizing of York, did ſpeak of it to ſome wel-affected about 2. or 3. houres before the Alarm: The next morning there was ſent out ſome horſe to diſcover the enemy, and it did ap<g ref="char:EOLhyphen"/>peare by many in the Country, and ſome they tooke up for Guides, that the enemy was about 3. Troopes of Horſe, and had Musketiers behinde them.</p>
+            <trailer>This Relation was made by the <hi>Judge Advocate</hi> to Major Gen. <hi>Lam<g ref="char:EOLhyphen"/>berts</hi> Army, who was at the main Guard, and ſaw all Paſ<g ref="char:EOLhyphen"/>ſages.</trailer>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:161854:5"/>
+            <!-- PDF PAGE 111 -->
+            <opener>
+               <salute>Mr. Maſcall.</salute>
+            </opener>
+            <p>YOur affection to our cauſe makes us apply our ſelves to you as a fit inſtrument to be intruſted in our pre<g ref="char:EOLhyphen"/>ſent endeavour for the Seizing and ſecuring of <hi>York,</hi> which would be of great conſequence to us at this time by a<g ref="char:EOLhyphen"/>maiſing the enemy and drawing them back from engage<g ref="char:EOLhyphen"/>ing with Sir <hi>Marmaduke Langdale</hi> his Forces, and by your dilligence might eaſily be done; we intend to attempt the taking of <hi>Yorke</hi> on Sunday next at twelve a Clock at night and to that purpoſe ſhall have a ſtrong party of horſe ready at that time to enter the City, and poſſeſs the guards and ſtrength thereof, of which we have aſſurance already, and ſhall confidently for our aſſiſtance relie upon our friends there, appearing in a body betwixt Micle-Gate barr and <hi>Northſtreet-Poſterne</hi> to joyne with our party, who ſhall enter therein delivering them ſelves from thoſe that have no power over them, which we ſhall rely upon at the time and place aforeſaid, to be obtained by your giving them notice of it, this party comes from Sir. <hi>Marmaduke Langdale</hi> upon pretence of releifing us here; but we have diverted them from that deſigne in regard we are in good condition, and can make our party good to take that City, which will be a good neighbour to us, your ready compli<g ref="char:EOLhyphen"/>ance with us in this act, which we doubt not of will be ve<g ref="char:EOLhyphen"/>ry acceptable and ſeaſonable, therefore pray faile us not who are your very humble Servants</p>
+            <closer>
+               <dateline>Pontefract <date>this 18. of Iune 1648.</date>
+               </dateline>
+               <signed>M. B.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
